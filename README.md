@@ -8,7 +8,7 @@ Usage: python gpx_to_swiss_kroki.py "./map.geo.admin.ch_GPX_2026-02-23T08_04_36.
 The code has been improved by Matyas Filep
 and is renamed gpx2lv95.py
 
-The output of such run is shown here:
+The output of such run is shown here: (output3.txt)
 ====================================================================================================
 KROKI - Route Profile with Swiss LV95 Coordinates
 ====================================================================================================
