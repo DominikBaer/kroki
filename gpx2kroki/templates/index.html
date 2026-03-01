@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Python Script Demo</title>
+</head>
+<body>
+    <h2>Datei hochladen & Skript ausführen</h2>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="Hochladen & Starten">
+    </form>
+
+    {% if output %}
+    <h3>Skript-Ausgabe (stdout):</h3>
+    <pre style="background: #f4f4f4; padding: 10px; border: 1px solid #ccc;">{{ output }}</pre>
+    {% endif %}
+</body>
+</html>
+

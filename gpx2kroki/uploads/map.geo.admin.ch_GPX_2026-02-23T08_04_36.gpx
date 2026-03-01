@@ -1,0 +1,9 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="OpenLayers">
+    <rte>
+        <type>measure</type>
+        <rtept lat="47.358293250073984" lon="8.81640521725146"/>
+        <rtept lat="47.238314836856475" lon="8.888960347839356"/>
+        <rtept lat="47.31765474480582" lon="9.021529797749452"/>
+    </rte>
+</gpx>
